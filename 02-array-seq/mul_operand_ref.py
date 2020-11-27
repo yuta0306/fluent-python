@@ -9,3 +9,9 @@ print(f'nl: {nl}')
 nl[0].append(0)
 
 print(nl)
+
+ml = [[], [], []]
+print(f'ml: {ml}')
+ml[0].append(0)
+
+print(ml)
